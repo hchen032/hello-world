@@ -3,4 +3,4 @@ hello-world
 
 Hi world,
 
-This is Hailu Chen. I am alsome.
+This is Hailu Chen. I am cool.
